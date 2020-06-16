@@ -3,3 +3,7 @@ https://youtu.be/9f-GarcDY58
 https://youtu.be/ve-Tj7kUemg
 https://youtu.be/3QiPPX-KeSc
 5> https://youtu.be/dBtqOSHGZbU
+6> https://youtu.be/_C7nRJ6WsmI
+7> https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers
+8> https://www.kali.org/downloads/
+9> https://www.virtualbox.org/
