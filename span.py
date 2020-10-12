@@ -3,6 +3,7 @@ import time
 import random
 import time
 from datetime import datetime
+import os
 
 clicked = 0
 currentTime = str(datetime.now())
@@ -28,8 +29,9 @@ f.write('----------------------------\n')
 f.close()
 
 #opening browser
-
-pyg.hotkey('ctrl','shift','t')
+browserLocation = "C:\Users\Vibhuti\Desktop\minecraft\Storage\Tor Browser\Browser" #Location for browser
+os.chdir(browserLocation)
+os.system("firebox.exe")
 time.sleep(15)
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
